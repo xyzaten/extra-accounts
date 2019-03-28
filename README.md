@@ -1,12 +1,12 @@
 # extra-accounts
 
 mail:
-  google
-  microsoft
-  netease
-  tencent
+  - google
+  - microsoft
+  - netease
+  - tencent
 
 choices:
-  access speed
-  user interface
-  trustworthy
+  - access speed
+  - user interface
+  - trustworthy
